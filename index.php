@@ -2,15 +2,15 @@
 
 /* Admin And Token */
 
-$token = 'محل توکن';
+$token = '424106937:AAGuzog1JuNHs9tBMqK8hMTex-bqj7Ytpg0';
 
-$admin = 'آیدی عددی ادمین';
+$admin = '277715659';
 
-$admin_username = 'یوزرنیم ادمین با @';
+$admin_username = '@Moeindanger';
 
-$admin_number = 'شماره ادمین با 98';
+$admin_number = '+989218486172';
 
-$admin_name = 'نام ادمین';
+$admin_name = 'moeindanger';
 
 /*================*/
 
